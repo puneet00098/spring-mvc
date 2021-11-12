@@ -1,0 +1,7 @@
+demo\spring\app\connect\Connection.class
+demo\spring\app\simple\SimpleBean.class
+demo\spring\app\connect\DeptDao.class
+demo\spring\app\connect\OracleConnection.class
+demo\spring\app\simple\SimpleAnnotatedBean.class
+demo\spring\app\connect\SQLConnection.class
+demo\spring\app\Application.class
