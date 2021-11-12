@@ -1,0 +1,3 @@
+demo\spring\app\entity\Dept.class
+demo\spring\app\dao\DeptDao.class
+demo\spring\app\JDBCApplication.class
